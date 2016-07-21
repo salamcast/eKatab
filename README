@@ -1,0 +1,43 @@
+@Package eKatab
+@author Karl Holz <newaeon|a|mac|d|com>
+@licence LICENCE.txt
+
+eKatab is a PHP interface to an ePub document to allow viewing of your created ibooks, ePub and zipped files with a 
+META-INF/container.xml file pointing to an ofp doc.
+
+It takes 2 arguments, the ePub file and the prefix to the ePub root in no standard zip file layout. 
+
+Everything is done automatically once the classes is loaded.  
+
+- access to your ebooks files with the URL path_info
+
+- All links have been fixed on the fly
+
+- bookmark-able links with REST-like design (GET only)
+ 
+- even works with ePub files purchased from the iTunes book Store (as long as they're not encrypted)
+
+- works with old o'really iPhone app books (.ipa file type), these will need to use the prefix. The ebook files are in 
+  ePub format.  The prefix must contain a 'META-INF/container.xml' file or it will fail, ipa files are zips, not too 
+  hard to figure out the prefix
+  
+- This is still a work in progress and hasn't really been touched in a few years, but it will display your ePub files 
+  in a browser.
+
+- The REST.class.php is still unpolished, it does the job for this package, but I plan in completing it in the future 
+  when I get the time
+
+- if you're an educational institution feel free to use and modify 
+
+### Testing
+
+I'm providing the RESTful_Web_Services.epub epub file for testing because it’s freely available under a Creative 
+Commons license [https://creativecommons.org/licenses/by-nc-nd/3.0/] as part of 
+O'Reilly's Open Book Project [http://www.oreilly.com/openbook/]
+
+This is a link to the site here, incase you want to check it out your self:
+
+http://restfulwebapis.org/rws.html
+
+save the books to the root of this web app and the configuration will be generated for each book, that’s the default 
+and easy way of using this program.

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:encryption xmlns:c="urn:oasis:names:tc:opendocument:xmlns:container" xmlns:d="http://www.w3.org/2000/09/xmldsig#" xmlns:e="http://www.w3.org/2001/04/xmlenc#">
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/cover.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/title_page.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/copyright.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/prologue.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch01.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch02.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch03.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch04.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch05.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch06.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch07.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch08.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch09.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch10.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch11.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch12.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch13.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch14.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch15.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch16.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch17.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch18.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch19.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch20.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch21.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch22.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch23.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch24.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch25.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch26.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch27.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch28.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch29.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch30.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch31.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch32.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch33.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch34.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch35.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/ch36.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/xhtml/back_matter.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/styles/stylesheet.css"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/styles/page-template.xpgt"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="ops/images/cover.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+</c:encryption>
