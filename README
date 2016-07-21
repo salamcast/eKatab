@@ -1,6 +1,6 @@
 @Package eKatab
 @author Karl Holz <newaeon|a|mac|d|com>
-@licence LICENCE.txt
+@licence LICENCE
 
 eKatab is a PHP interface to an ePub document to allow viewing of your created ibooks, ePub and zipped files with a 
 META-INF/container.xml file pointing to an ofp doc.
