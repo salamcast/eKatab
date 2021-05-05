@@ -14,8 +14,10 @@
   
   <xsl:template match="a|h:a">
     <xsl:if test=".!=''">
-      <a>
+      <a  >
         <xsl:attribute name="href"><xsl:value-of select="@href"/></xsl:attribute>
+        <xsl:attribute name="data-ajax">false</xsl:attribute>
+        <xsl:attribute name="data-transition">flip</xsl:attribute>
         <xsl:apply-templates />
       </a>
     </xsl:if>

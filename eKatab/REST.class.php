@@ -250,31 +250,38 @@ function keep_it_restful() {
 /**
  * invoke the default processing of this class
  */ 
- function auto_invoke() {
+ function auto_invoke($cli = false) {
  	$this->auto_rest();
  	// auto config
+	
  	$this->auto_controller(); 
  	$this->auto_collection(); 
  	$this->auto_debug_dir();
  	$this->auto_uri();
- 	$this->auto_agent();
  	$this->auto_file();
  	$this->auto_dir();
  	$this->auto_ini();
- 	$this->auto_host();
- 	$this->auto_query();;
- 	$this->auto_http_accept();
+	 if (!$cli) {
+		$this->auto_agent();
+
+		$this->auto_host();
+		$this->auto_query();;
+		$this->auto_http_accept();		
+		$this->auto_http_auth();
+		$this->auto_input();
+		$this->auto_username();
+		$this->auto_password();
+ 	//process auth and request input
+	 	$this->process_http_auth();
+ 		$this->process_http_request();
+	}
+
  	$this->auto_docroot();
- 	$this->auto_http_auth();
- 	$this->auto_input();
- 	$this->auto_username();
- 	$this->auto_password();
+
  	// basic preset values, can be overridden by the API config
  	$this->mime_type='application/json';
  	$this->realm="Basic RESTfulPHP Web Auth"; 
- 	//process auth and request input
- 	$this->process_http_auth();
- 	$this->process_http_request();
+
  }
  
  function find_api_config() {
@@ -874,18 +881,8 @@ HT
  		break;
  		default: $msg="Unknow Error in ".__CLASS__." | ".$e; $code='404';
  	}
- 	$this->http_header($code, 'text/html');
-?><!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <title><?php echo __CLASS__; ?> Error</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
-		<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
-		<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
-    </head>
-    <body>
+// 	$this->http_header($code, 'text/html');
+?>
 	<div data-role="page">
 	    <div data-role="header"><h1><?php echo __CLASS__; ?> Error  | <?php echo $e; ?></h1></div> 
 	    <div data-role="content" >
@@ -909,12 +906,8 @@ HT
 		</div>
 		<?php } ?>
 	</div> 
-	    <div data-role="footer">
-		    <h4><?php if ($this->debug) {  echo 'DEBUG MODE:'; } ?><?php echo __CLASS__; ?> Error  | <?php echo $e; ?></h4>
-	    </div>
-	</div>
-    </body>
-</html><?php 
+
+    <?php 
 	exit();
  }
  
