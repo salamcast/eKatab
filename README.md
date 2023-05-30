@@ -53,20 +53,3 @@ $> php -S 0.0.0.0:8080 -d .
 
 I would like to eventually add text to speach into this webapp for accessablity reasons.  This is a perfect feature for visually impaired and dyslexic people to enjoy books that the local library might not have avalible as an audiobook yet.
 
-## About me
-
-I'm Abu Khadeejah Karl, a father and husband;  I'm a full card member
-of IATSE Local 58 Toronto Stagehands, I was working for a large AV
-company before COVID-19 killed the events/hospitality industry in
-Toronto.  so now I'm looking for full time employment in something Cloud
-Computing, InfoSec or Python related.  My portfolio links are bellow:
-
-* [https://github.com/salamcast](https://github.com/salamcast)
-* [https://hub.docker.com/u/binholz](https://hub.docker.com/u/binholz)
-* [https://leetcode.com/salamcast/](https://leetcode.com/salamcast/)
-* [https://www.kaggle.com/abukhadeejahkarl](https://www.kaggle.com/abukhadeejahkarl)
-
-## Support my work
-
-* LBC: bFhwBzT2r5jCuvphQBJmX9xLUZoackz1J6
-* PayPal:[https://www.paypal.com/paypalme/AbuKhadeejahKarl](https://www.paypal.com/paypalme/AbuKhadeejahKarl)
